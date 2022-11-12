@@ -41,7 +41,7 @@ const PS2Keymap_t PS2Keymap_US = {
 	 0, 0, 0, PS2_F7},
 	// with shift
 	{0, PS2_F9, 0, PS2_F5, PS2_F3, PS2_F1, PS2_F2, PS2_F12,
-	 0, PS2_F10, PS2_F8, PS2_F6, PS2_F4, PS2_TAB, '~', 0,
+	 0, PS2_F10, PS2_F8, PS2_F6, PS2_F4, PS2_SHIFT_TAB, '~', 0,
 	 0, 0 /*Lalt*/, 0 /*Lshift*/, 0, 0 /*Lctrl*/, 'Q', '!', 0,
 	 0, 0, 'Z', 'S', 'A', 'W', '@', 0,
 	 0, 'C', 'X', 'D', 'E', '$', '#', 0,

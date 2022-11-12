@@ -1,9 +1,10 @@
-#ifndef ps2_h
-#define ps2_h
+#ifndef _PS2_H
+#define _PS2_H
 
 #include "pico/stdlib.h"
 
 #define PS2_TAB 9
+#define PS2_SHIFT_TAB 12
 #define PS2_ENTER 13
 #define PS2_BACKSPACE 127
 #define PS2_ESC 27
